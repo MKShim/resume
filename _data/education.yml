@@ -1,13 +1,23 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
 
-- degree: High School Diploma
+
+- degree: Master's Student, Major in Statistics
   uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+  year: 2020 ~ 
+  award: 
+  summary: 
+
+- degree: Master of Economics
+  uni: Sogang University
+  year: 2014 &mdash; 2016
+  Thesis:
+    - Thesis : The effect of the National Basic Livelihood Security Act on Household Labor supply
+  summary: The study analyzes the effect of the National Basic Livelihood Security Act on a household head's working days a year.
+
+- degree: Bachelor of Economics, Statistics
+  uni: Sookmyung Women's University
+  year: 2008 &mdash; 2014
+  Performance:
+    - : Getting scholarships five times
+      : Attending a U.S. university on an exchange scholarship
+  summary: If you had any meaningful roles at college, feel free to write about them here
